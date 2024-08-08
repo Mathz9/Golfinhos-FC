@@ -1,15 +1,15 @@
 Início
     // Solicita ao usuário o primeiro número
     Escreva "Digite o primeiro número: "
-    Leia numero1
+    Leia numero4
 
     // Solicita ao usuário o segundo número
     Escreva "Digite o segundo número: "
-    Leia numero2
+    Leia numero5
 
     // Calcula a soma dos dois números
-    soma = numero1 + numero2
+    soma = numero4 + numero5
 
     // Exibe o resultado
-    Escreva "A soma de ", numero1, " e ", numero2, " é ", soma
+    Escreva "A soma de ", numero4, " e ", numero5, " é ", soma
 Fim
